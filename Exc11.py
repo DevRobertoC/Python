@@ -1,3 +1,5 @@
+# Imprimir la suma de todos los números que se encuentren en el archivo de texto
+
 import re
 hand = open('regex_sum_1167749.txt')
 numlist = list()
