@@ -1,3 +1,4 @@
+# Curse Using Python to access Web Data
 #Busqueda de lineas que tengan "From:"
 hand = open('mbox-short.txt')
 for line in hand:
