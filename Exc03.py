@@ -1,4 +1,4 @@
-# Expresiones regulares
+# Working with regular expressions
 # start for lines that start with 'From'
 import re
 hand = open('mbox-short.txt')
