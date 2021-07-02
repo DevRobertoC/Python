@@ -1,5 +1,5 @@
 # EXPRESIONES REGULARES
-# Extracting Data
+# Extracting Data - working with regular expressions
 import re
 
 x = 'My 2 favorite numbers are 19 and 42'
