@@ -13,7 +13,7 @@ print(y)
 # Los [] buscan un caracter que no sea espacio en blanco, ^ -->Todo lo que no sea, en este caso un espacio
 # en blanco.
 lin = 'From stephen.marquard@uct.ac.za Sat Jan 5 09:14:16 2008'
-y = re.findall('@([^ ]*)',lin)
+y = re.findall('@([^ ]*)',lin) #Retorno solo lo que está despues de @ hasta el siguiente espacio blanco
 print(y)
 
 # Refinando un poco esto

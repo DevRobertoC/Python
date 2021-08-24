@@ -8,6 +8,7 @@ for line in hand:
 
 
 #Este codigo tambien se puede hacer con startswith
+print("")
 hand = open('mbox-short.txt')
 for line in hand:
     line = line.rstrip()
